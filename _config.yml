@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Software Critic
 locale:           en_US
 url:
 
@@ -26,13 +26,13 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Irfan Ahmad
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "Software Critic"
   email:
   disqus-shortname:
-  twitter: #username
-  facebook: #username
+  twitter: irfanahmads
+  facebook: irfan.ahmad.7
   google:
     plus: #username
     analytics:
