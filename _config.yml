@@ -29,7 +29,7 @@ owner:
   name: Irfan Ahmad
   avatar: bio-photo.jpg
   bio: "Software Critic"
-  email:
+  email: irfan@critick.io
   disqus-shortname:
   twitter: irfanahmads
   facebook: irfan.ahmad.7
@@ -40,9 +40,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  github: irfanah
+  stackoverflow: irfan-ahmad   #from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: irfanahmads
   xing: #username
   instagram: #username
   lastfm: #username
