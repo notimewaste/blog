@@ -8,7 +8,7 @@ image:
   feature: sample-image-12.jpg
 ---
 
-Hey I am Irfan, A Software <a href="https://en.wikipedia.org/wiki/Critic">Critic</a>
+Hey I am Irfan, A Software <a href="https://en.wikipedia.org/wiki/Critic">Critic</a> ,who believes software is a form of creative work and needs to be analysed for quality and made open to all.
 
 
 ###Mission    
