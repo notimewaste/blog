@@ -15,7 +15,7 @@ Hey I am Irfan, A Software <a href="https://en.wikipedia.org/wiki/Critic">Critic
 Helping developers and product companies deliver quality in their software and make the world an awesome place.
 
 ###Passion
-Building an online Quality Engine to help developers test their apps better and continuously at href="http://app.critick.io">app.critick</a>.
+Building an online Quality Engine to help developers test their apps better and continuously at <a href="http://app.critick.io">app.critick</a>.
 
 Loves blogging, writing and humour.
 
