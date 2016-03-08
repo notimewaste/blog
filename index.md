@@ -1,7 +1,7 @@
 ---
 layout: home
-excerpt: "A minimal Jekyll theme for your blog by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+excerpt: "Software Critic,posts on Testing ,Reviews and CI "
+tags: [Testing,Automation Testing,Software Critic, blog,Online App Testing,Irfan Ahmad,Continous Integration,Open Source Testing ]
 image:
   feature: sample-image-1.jpg
 ---
