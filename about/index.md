@@ -8,16 +8,17 @@ image:
   feature: sample-image-12.jpg
 ---
 
-Hey I am Irfan, A Software <a href="https://en.wikipedia.org/wiki/Critic">Critic</a> ,who believes every software is a form of creative work and needs to be analysed for quality before its users.
+Hey I am Irfan, A Software <a href="https://en.wikipedia.org/wiki/Critic">Critic</a> ,who believes every software is a form of creative work and needs to be analysed for quality before its users to make their life easy.
 
 
 ###Mission    
-Helping developers and product companies deliver quality in their software and make the world an awesome place.
+Enabling developers and product companies deliver quality in their software faster, continuously and on scale to make the world an awesome place.
 
 ###Passion
-Building an online Quality Engine to help developers test their apps better and continuously at <a href="http://app.critick.io">app.critick</a>.
-
-Loves blogging, writing and humour.
+* Building an online Quality Engine to help developers test and rate their apps better and continuously at <a href="http://app.critick.io">app.critick</a>.
+* Focused on mobile, test automation and continuous delivery currently.
+* Loves writing blogs,humour and mobile game apps.
 
 ###Profession  
-Full stack programmer, open source fan ,working as Software Quality Engineer.
+* Lead Quality Analyst at Upgrad.com.
+* Full stack programmer, open source fan and contributor.
