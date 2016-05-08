@@ -17,10 +17,28 @@ Fist you need to ask the below question and understand what you need
 
 ## Choose the Language based on needs
 
-|Lang./Factors| Web    |  API      | Mobile  |  BDD  | CI/CD| Performance | Scripting | Monitoring | Learning | Community |
-|------------|---------|-----------|---------|-------|--------|------------|-----------|------------|----------|-----------|
-| Java       | Good    |  Good     |  Good   |  Good |  Good  | Good       | No        | Good       | Bad      | Good      |
-| C#         | Good    |  Good     |  Good   |  Avg  |  Good  | Bad        | No        | Bad        | Bad      | Avg       |
-| Ruby       | Good    |  Good     |  Good   |  Good |  Good  | Bad        | Good      | Good       | Good     | Good      |
-| Python     | Avg     |  Good     |  Good   |  Bad  |  Good  | Good       | Good      | Good       | Good     | Avg       |     
-| Javascript | Good    |  Avg      |  No     |  Bad  |  Bad   | No         | Bad       | No         | Avg      | Bad       |
+|Lang./Factors| Web | API   |Mobile|BDD| CI |Performance| Scripting | Monitoring | Learning | Community |
+|------------|------|-------|------|---|----|-----------|-----------|------------|----------|-----------|
+| Java       | 5    | 5     | 5    | 5 |  5 | 5          | 0         | 5          | 2        | 5         |
+| C#         | 3    | 3     | 1    | 3 |  3 | 3          | 0         | 2          | 2        | 3         |
+| Ruby       | 5    | 4     | 5    | 5 |  4 | 1          | 5         | 4          | 4        | 4         |
+| Python     | 5    | 4     | 4    | 3 |  4 | 3          | 5         | 4          | 5        | 2         |     
+| Javascript | 2    | 0     | 4    | 1 |  1 | 0          | 1         | 0          | 4        | 1         |
+
+## Recommended
+I will recommend you to choose ruby as a primary language for automation ,but why ?
+
+### Pros
+*  language for humans. A well written Ruby code can be read by a non-programmer and can understand its flow without getting diverted with language
+* readable, implicit and less verbose i.e less code
+* choice of third party libraries and support
+* meta-programming
+* support for build automation like rake
+
+### Cons
+* debugging is not straight forward
+* less job openings (lol)
+
+## Conclusion
+Clearly there is no single best language, but based on above points you can decide the right technology stack and language.
+You may also want to choose multiple languages over your stack for example Ruby for Web,API.Mobile testing automation along with cucumber and Java/python for performance testing and monitoring.
