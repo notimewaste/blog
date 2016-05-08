@@ -17,6 +17,8 @@ Fist you need to ask the below question and understand what you need
 
 ## Choose the Language based on needs
 
+below are the popular language choices with their scores for listed factors
+
 |Lang./Factors| Web | API   |Mobile|BDD| CI |Performance| Scripting | Monitoring | Learning | Community |
 |------------|------|-------|------|---|----|-----------|-----------|------------|----------|-----------|
 | Java       | 5    | 5     | 5    | 5 |  5 | 5          | 0         | 5          | 2        | 5         |
