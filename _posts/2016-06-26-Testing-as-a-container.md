@@ -9,7 +9,6 @@ comments: true
 
 
 I Spoke and Demonstrated about "Testing as a Container - Using Docker in Testing" at Selenium Conference 2016 in Bangalore on 24th July 2016.It was awesome speaking in front of large audience full of energy and curiosity.
-
 This Talk was To adopt the mindset of shipping Tests as Containers.All Testers are responsible for reliability of their tests more than developers/dev-ops are responsible for their software.But this is usually difficult,time consuming and needs collaboration with developers but always worth the effort.
 we were suppose to evaluate docker capabilities in ensuring and enhancing reliability of our tests.
 
@@ -40,8 +39,8 @@ learn how to leverage the container technology to solve the challenges of growin
 
 ## Demo and Hands On Material
 
-* Project Open sourced  at https://github.com/irfanah/teststack
-* Presentation available at http://www.slideshare.net/IRFANAHMAD60/testing-as-a-container
+* Project Open sourced  at [teststack](https://github.com/irfanah/teststack)
+* Presentation available at [testing-container](http://www.slideshare.net/IRFANAHMAD60/testing-as-a-container)
 
 
 You may send any feedback in case you face challenges with hands on.
