@@ -52,4 +52,8 @@ learn how to leverage the container technology to solve the challenges of growin
 
 You may send any feedback in case you face challenges with hands on.
 
+## People
+
+ These two days was fun talking with other attendees coming from different places,meeting old friends  and listening interesting ideas of other speakers.
+
 ![Other Speakers]({{ site.url }}/images/speakers.jpg)
