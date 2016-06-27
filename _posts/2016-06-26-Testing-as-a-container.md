@@ -18,9 +18,9 @@ Since Testers are responsible for reliability of their tests in the same way dev
 
 ## Need
 
-upcoming trends in the world of software delivery.
-1.Docker is becoming a standard for managing infrastructure using containers.
-2.Testing code and its infrastructure starts to grow at scale with more complexity, dependencies and technology diversity moreover demands better reliability and performance at the same time.
+upcoming trends in the world of software delivery.  
+* Docker is becoming a standard for managing infrastructure using containers.
+* Testing code and its infrastructure starts to grow at scale with more complexity, dependencies and technology diversity moreover demands better reliability and performance at the same time.
 
 ## Agenda
 
