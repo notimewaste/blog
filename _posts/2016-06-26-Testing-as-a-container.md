@@ -9,13 +9,16 @@ comments: true
 
 
 Recently I Spoke and Demonstrated about "Testing as a Container - Using Docker in Testing" at Selenium Conference 2016 in Bangalore on 24th July 2016.It was an awesome experience in front of large audience full of energy and curiosity.  
-> This Talk was to adopt the idea of "shipping Tests as Containers" instead of code.  
 
-Since Testers are responsible for reliability of their tests in the same way developers/dev-ops are responsible for their software but this is usually difficult,time consuming and needs collaboration with developers.We were supposed to evaluate docker capabilities in ensuring and enhancing reliability of our tests.
+## Purpose
+
+> Adopt the idea of "shipping Tests as Containers" instead of code.  
+
+Since Testers are responsible for reliability of their tests in the same way developers/dev-ops are responsible for their software but this is usually difficult,time consuming and needs collaboration with developers.Docker capabilities can help us in ensuring and enhancing reliability of our tests.
 
 ## Need
 
-We see the below upcoming trends in the world of software delivery.
+upcoming trends in the world of software delivery.
 1.Docker is becoming a standard for managing infrastructure using containers.
 2.Testing code and its infrastructure starts to grow at scale with more complexity, dependencies and technology diversity moreover demands better reliability and performance at the same time.
 
@@ -28,6 +31,8 @@ learn how to leverage the container technology to solve the challenges of growin
 * Examples to containerize entire testing stack together consisting of major automation tools like selenium.
 * Integrating and managing testing container with other application containers to achieve easily manageable continuous delivery pipeline.
 * Best practices and patterns for docker success.
+
+![Conference Talk]({{ site.url }}/images/talk.jpg)
 
 ## Learning Outcome
 
@@ -42,6 +47,4 @@ learn how to leverage the container technology to solve the challenges of growin
 * Presentation available at [testing-container](http://www.slideshare.net/IRFANAHMAD60/testing-as-a-container)
 * Project Open sourced  at [teststack](https://github.com/irfanah/teststack)
 
-You may send any feedback in case you face challenges with hands on.
-
-![Conference Talk]({{ site.url }}/images/talk.jpg)
+You may send any feedback in case you face challenges with hands on.   
