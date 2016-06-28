@@ -9,17 +9,26 @@ image:
 
 ---
 
-Below are my Open sourced projects 
+Below are my Open sourced projects and Contributions
 
 ### 1.TestStack
 
 Testing Framework based on BDD principles in Ruby ,available on <a href="https://github.com/irfanah/TestStack">github</a> to
 
-* Implement tests for products Web , Mobile and API's with one interfaces
+* Implement tests for products Web,Mobile and API's with one interfaces
 * Executable-specifications and live documentation of features with cucumber
 * Functional and performance tests
-* Execute tests as docker containers
+* Execute tests over **docker** containers or Cloud infrastructure or Locally
+
 
 ###  2.Design Patterns in Testing
 
 To Explore and Implement ,design patterns in test automation
+
+### 3.Poltergeist ,PhantomJS Driver
+
+BugFixes
+
+### 4.Docker-Selenium
+
+Docker Images for Selenium Grid and Standalone
