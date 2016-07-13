@@ -48,7 +48,7 @@ learn how to leverage the container technology to solve the challenges of growin
 * Presentation available at [testing-container](http://www.slideshare.net/IRFANAHMAD60/testing-as-a-container)
 * Project Open sourced  at [teststack](https://github.com/irfanah/teststack)
 * Demo Video at [Video](https://www.youtube.com/watch?v=kXlS69PXX68)
-* Will add the link for talk once available
+* Talk Video at [Talk](https://www.youtube.com/watch?v=CCF6A_HDdcI)
 
 You may send any feedback in case you face challenges with hands on.
 
