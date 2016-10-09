@@ -13,12 +13,12 @@ Software <a href="https://en.wikipedia.org/wiki/Critic">Critic</a> ,who believes
 
 
 ###Mission    
-Enabling developers and product companies deliver quality in their software faster, continuously and on scale to make the world an awesome place.
+Enabling developers to deliver quality in their software faster, reliable and on scale to make the world of software a transparent place.
 
 ###Passion
 * Loves writing blogs,reviews,**humour** and mobile game apps.
 * Full stack programmer,open source fan and contributor.
 
 ###Profession  
-* Lead Quality Analyst at Upgrad.com.
-* Focused on test automation,mobile and continuous delivery currently.
+* Lead Quality Analyst
+* Focused on test automation, mobile and continuous delivery currently.
