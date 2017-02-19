@@ -2,7 +2,7 @@
 
 title:            Software Critic
 locale:           en_US
-url:
+url:              https://critick.io
 
 
 # Jekyll configuration
@@ -33,7 +33,7 @@ owner:
   email: irfan@critick.io
   github: irfanah
   disqus-shortname: irfanahmads
-  twitter: critickerr
+  twitter: notimewaste
   facebook: irfan.ahmad.7
   google:
     plus: #username
@@ -51,7 +51,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #
+  youtube: critick
   soundcloud: #username
   weibo: #username
   flickr: #username
