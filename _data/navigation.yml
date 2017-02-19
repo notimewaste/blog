@@ -7,10 +7,13 @@
   url: /posts/
 
 - title: Critick
-  url: http://app.critick.io
+  url: https://app.critick.io
 
 - title: My Apps
   url: /apps/
+
+- title: Talks
+  url: /talks/
 
 - title: OpenSource
   url: /open/
