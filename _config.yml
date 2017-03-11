@@ -2,7 +2,7 @@
 
 title:            Software Critic
 locale:           en_US
-url:              https://critick.io
+url:              https://irfan.chandler.ai
 
 
 # Jekyll configuration
@@ -30,8 +30,8 @@ owner:
   avatar: bio-photo.jpg
   bio: "Software Critic"
   linkedin: irfanahmads
-  email: irfan@critick.io
-  github: irfanah
+  email: irfan@chandler.ai
+  github: notimewaste
   disqus-shortname: irfanahmads
   twitter: notimewaste
   facebook: irfan.ahmad.7
@@ -51,7 +51,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: critick
+  youtube: chandlerai
   soundcloud: #username
   weibo: #username
   flickr: #username
