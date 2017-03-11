@@ -6,14 +6,11 @@
 - title: Blogs
   url: /posts/
 
-- title: Critick
-  url: https://app.critick.io
+- title: Chandler
+  url: https://chandler.ai
 
 - title: My Apps
   url: /apps/
-
-- title: Talks
-  url: /talks/
 
 - title: OpenSource
   url: /open/
