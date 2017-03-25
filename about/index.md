@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about,Irfan Ahmad, theme, responsive]
+tags: [about,Irfan Ahmad,Software Critic,Irfan]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
