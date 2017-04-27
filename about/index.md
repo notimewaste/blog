@@ -17,7 +17,7 @@ Enabling developers to deliver quality in their software faster, reliable and on
 
 ###Passion
 * Writing **humour** and StandBy Comedy.
-* Open source fan and contributor to testing projects.
+* Open source fan and contributor to testing projects 
 * Author at <a href="https://chandler.ai">chandler</a>
 
 
