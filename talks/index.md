@@ -12,8 +12,8 @@ I love sharing my knowledge,experiences and pain too – in the form of blog pos
 
 ### SeleniumConf Uk at London 2016  
 
-* <a href="http://2016.seleniumconf.co.uk/sessions/#irfan-ahmad">session</a>  
-* <a href="https://www.youtube.com/watch?v=qYJvwggA6cA">video</a>
+* Talk and Demonstation <a href="http://2016.seleniumconf.co.uk/sessions/#irfan-ahmad">session</a>  
+* Recorded <a href="https://www.youtube.com/watch?v=qYJvwggA6cA">video</a>
 
 ### SeleniumConf India 2016 at Banglore
 
