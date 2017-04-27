@@ -20,15 +20,22 @@ Testing Framework based on BDD principles in Ruby ,available on <a href="https:/
 * Functional and performance tests
 * Execute tests over **docker** containers or Cloud infrastructure or Locally
 
+### 2.Docker-Appium
 
-###  2.Design Patterns in Testing
+* Appium Server setup to automate android testing on real device at <a href="https://github.com/appium/appium-docker-android">github</a>
 
-To Explore and Implement ,design patterns in test automation
-
-### 3.Poltergeist ,PhantomJS Driver
-
-BugFixes
-
-### 4.Docker-Selenium
+### 3.Docker-Selenium
 
 Docker Images for Selenium Grid and Standalone
+
+### 2.Design Patterns in Testing
+
+* To Explore and Implement ,design patterns in test automation
+
+### 4.Poltergeist ,PhantomJS Driver
+
+* BugFixes and stuff
+
+### 5.Chatter (UpComing)
+
+* Chat based Tester at <a href="https://github.com/notimewaste/chatter>github</a>
