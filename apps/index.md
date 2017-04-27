@@ -7,7 +7,7 @@ comments: true
 image:
   feature: sample-image-11.jpg
 ---
-I am a hobbyist android and web developer,try my live apps below
+I am a hobbyist developer,try my live apps below
 
 ### Android Apps  
 Available on google playstore , ubuntu and amazon markets            
@@ -30,5 +30,13 @@ This is a highly productive app to clip contents from your device over any app a
 * Integrated Admob and google play services
 * If you love flappy bird game ,you will have to play this once
 
-###  Web Apps  
-No more alive (: ,will be back soon
+3)a href="https://play.google.com/store/apps/details?id=com.irfana.theticgame&hl=en">TheTicGame</a>[Android Game ]
+
+* Simple tictac game for android
+* There is also an iOS Implementation
+
+###  Websites  
+* Subscription page for <a href="https://chandler.ai">Chandler AI</a> ,please subscribe
+
+### AI Chatbot
+* No more alive (: ,will be back soon ,please subscribe above 
