@@ -37,7 +37,7 @@ This is a highly productive app to clip contents from your device over any app a
 
 ###  Websites  
 * Website for <a href="https://chandler.ai">Chandler AI</a> ,please subscribe
-* My blog <a href="https://chandler.ai">Software Critic</a> , you are already here 😝
+* My blog <a href="https://irfanahmad.in">Software Critic</a> , you are already here 😝
 
 ### Chatbot
 * No more alive (: ,will be back soon ,please subscribe above
