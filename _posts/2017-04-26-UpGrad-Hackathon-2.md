@@ -12,7 +12,7 @@ Last week UpGrad hosted its second Hackathon , a 48 hour long coding sessions wh
 ## The Purpose  
 >> Hackathons gives a great opportunity for anyone in the company to establish an idea into a working prototype and get other people excited about its potential future.
 
-After the success of out first <a href="https://irfanahmad.in/UpGrad-First-Hackathon/">hackathon</a>,we decided to host it every quarter.This embraces a culture of experiments and innovation where you are focused on on getting your basic project up and running for demonstration so the broader team can quickly iterate to make it better.       <br><br>
+After the success of our first <a href="https://irfanahmad.in/UpGrad-First-Hackathon/">hackathon</a>,we decided to host it every quarter.This embraces a culture of experiments and innovation where you are focused on on getting your basic project up and running for demonstration so the broader team can quickly iterate to make it better.       <br><br>
 
 ![The Hack Cycle]({{ site.url }}/images/hackcycle.png)
 
@@ -59,15 +59,15 @@ After bidding we had 8 teams with 100% zeal ,0% code and their project ideas as 
 |----
 | UpStack   | Setting TechStack  Quickly Anywhere |
 |----
-| UpInterview   |  asynchronous interviews on Platform   |
+| UpInterview   |  Asynchronous interviews on Platform   |
 |----
 | News Feed   | Relevent News Feed for students in platform   |
 |----
 | Redis Native library   | Generic library to build real time apps quickly over redis  |
 |----
-| Life of Pi   |  display interesting stats on raspberry pie in office  |
+| Life of Pi   |  Display interesting stats on raspberry pie in office  |
 |----
-| UpGrad Portfolio   |   build students Portfolio on platform |
+| UpGrad Portfolio   |   Build students Portfolio on platform automatically from assessments |
 |----
 |=====
 {: rules="groups"}
@@ -112,7 +112,7 @@ Final Day Morning was mix of thrill,anciety,sleepiness and little happiness of g
 Final Demonstration took more than 3 hours with judges looking at projects in various states of excitement,confusion,astonishment and sometimes disappoval too. <br><br>
 ![Judges]({{ site.url }}/images/hackathon-judges.png)<br><br>  
 At the end results were announced and we were happy to be in Top three projects although
-too lazy hungry and tired to express our happiness.
+too lazy,hungry and tired to express our happiness.
 
 ### Team Lunch
 

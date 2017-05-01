@@ -7,7 +7,7 @@ modified: 2016-01-14
 comments: true
 ---
 
-So last Saturday i went with my team mates at tinyowl to attend VodQA workshop at ThoughtWorks Pune ,sounds interesting right, well stop guessing vodQA is Value oriented discussion on Quality Analysis ,where anyone and not just quality engineers meet to learn and share on focused topics related to QA.The event details were already planned on facebook group this time the theme was agile testing practices
+So last Saturday i went with my team mates at TinyOwl to attend VodQA workshop at ThoughtWorks Pune ,sounds interesting right, well stop guessing vodQA is Value oriented discussion on Quality Analysis ,where anyone and not just quality engineers meet to learn and share on focused topics related to QA.The event details were already planned on facebook group this time the theme was agile testing practices
 
 This was our first time to ThoughtWorks Pune and vodQA ,so we left Mumbai early morning and reached the venue a bit early and since we had time for getting introduced to other enthusiasts we started discussing our problems among us .after registrations, breakfast and the keynote ,we saw around 100 or more attendees which included QA,developers,experts and product managers too.
 
