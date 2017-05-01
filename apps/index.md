@@ -9,9 +9,9 @@ image:
 ---
 I am a hobbyist developer,try my live apps below
 
-### Android Apps  
+### Mobile Apps  
 Available on google playstore , ubuntu and amazon markets            
-1) <a href="https://play.google.com/store/apps/details?id=com.irfana.tinyclip&hl=en">ClipOn</a> [Clipboard Manager and note making productivity tool]  
+1) <a href="https://play.google.com/store/apps/details?id=com.irfana.tinyclip&hl=en"> ClipOn</a> [Clipboard Manager and note making productivity tool]  
 This is a highly productive app to clip contents from your device over any app and save,share and export anytime, anywhere.  
 
 * Stores all that you have copied or cut in the past, allowing you to quickly
@@ -24,19 +24,20 @@ This is a highly productive app to clip contents from your device over any app a
 * Clips can be recovered even after reboot or crash
 * Easy to use  Material Design User Interface with simple click and swipe   
 
-2)<a href="https://play.google.com/store/apps/details?id=com.irfana.Candyman&hl=en">Candyman</a>[Android Game ]
+2) <a href="https://play.google.com/store/apps/details?id=com.irfana.Candyman&hl=en"> Candyman</a>[Android Game]
 
 * Combines concept for Flappy bird and Super mario
 * Integrated Admob and google play services
 * If you love flappy bird game ,you will have to play this once
 
-3)a href="https://play.google.com/store/apps/details?id=com.irfana.theticgame&hl=en">TheTicGame</a>[Android Game ]
+3) <a href="https://play.google.com/store/apps/details?id=com.irfana.theticgame&hl=en"> TheTicGame</a>[Android Game ]
 
-* Simple tictac game for android
+* Simple tic-tac game for android
 * There is also an iOS Implementation
 
 ###  Websites  
-* Subscription page for <a href="https://chandler.ai">Chandler AI</a> ,please subscribe
+* Website for <a href="https://chandler.ai">Chandler AI</a> ,please subscribe
+* My blog <a href="https://chandler.ai">Software Critic</a> , you are already here 😝
 
-### AI Chatbot
-* No more alive (: ,will be back soon ,please subscribe above 
+### Chatbot
+* No more alive (: ,will be back soon ,please subscribe above

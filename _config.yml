@@ -9,20 +9,27 @@ url:              https://irfanahmad.in
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
+# Markdown Processing
 kramdown:
+  input: GFM
+  hard_wrap: false
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Site owner
 owner:
@@ -51,7 +58,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: chandlerai
+  youtube: https://www.youtube.com/channel/UC79RKStF1BLCDFAsh-T3OgA
   soundcloud: #username
   weibo: #username
   flickr: #username
