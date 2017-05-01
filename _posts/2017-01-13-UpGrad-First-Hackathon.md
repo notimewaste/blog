@@ -80,10 +80,14 @@ Results were declared with Censor Board as winners and we were happy since Ubey 
 
 Its already a month from last hackathon and here are the things we learned from it.
 
-* Finding Ideas : Ideas can come from anywhere and anytime so be open to all ideas and keep clarity on your goals first before starting to work on them.
-* Why only Features : Features are not the only thing that you can build ,in-fact you can improve something already existing and make it
+* **Finding Ideas** : Ideas can come from anywhere and anytime so be open to all ideas and keep clarity on your goals first before starting to work on them.
+* **Why only Features?** : Features are not the only thing that you can build ,in-fact you can improve something already existing and make it
 better,faster and cheaper and still impact a lot.
-* Internal Tools : Building something Internal can be made live into use within few days unlike customer facing stuff which will require
+* **Internal Tools** : Building something Internal can be made live into use within few days unlike customer facing stuff which will require
 more time in research,development and testing before going live.
-* Teamwork : Understand the skill-set you need to build your project and choose your team wisely based on their skills,passion and experience
+* **Teamwork** : Understand the skill-set you need to build your project and choose your team wisely based on their skills,passion and experience
 and help them work together to achieve your team goals.
+* **Sleep** : 48 Hour's is a long time and no-body should stay this long without sleep and must relax otherwise you might look like one "dreaming without eyes open".
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When you try too hard to <a href="https://twitter.com/hashtag/DreamWithYourEyesOpen?src=hash">#DreamWithYourEyesOpen</a> 😄 <a href="https://t.co/7QG0wEoxaG">pic.twitter.com/7QG0wEoxaG</a></p>&mdash; Irfan Ahmad (@notimewaste) <a href="https://twitter.com/notimewaste/status/838274861864660992">March 5, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>

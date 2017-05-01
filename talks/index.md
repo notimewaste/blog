@@ -8,7 +8,7 @@ image:
   feature:
 ---
 
-I love sharing my knowledge,experiences and pain too – in the form of blog posts, podcasts, open source code, books this helps me learn better.
+I love sharing my ideas,experiences and pains too with others and and this helps me learn better.
 
 ### SeleniumConf Uk at London 2016  
 
