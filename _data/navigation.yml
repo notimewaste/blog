@@ -6,10 +6,7 @@
 - title: Blogs
   url: /posts/
 
-- title: Chandler
-  url: https://chandler.ai
-
-- title: My Apps
+- title: Apps
   url: /apps/
 
 - title: Talks
@@ -17,6 +14,9 @@
 
 - title: OpenSource
   url: /open/
+
+- title: Chandler
+  url: https://chandler.ai
 
 - title: Subscribe
   url: http://eepurl.com/bZxgY9
