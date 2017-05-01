@@ -3,12 +3,11 @@ layout: post
 title: Life of a software tester
 excerpt: "What makes software testing a thankless job ?"
 tags: [sample post, code, highlighting]
-modified: 2012-10-28
+modified: 2014-10-28
 comments: true
 ---
 
-
-Lot of people have curiosity to know what software testers really do even if the ones in software industry, below list will help them to understand better. <br> <br>
+People are always curious what does software testers actually do? Even the ones in software industry, I hope this will help them to understand better. <br> <br>
 
 |        |  |
 |:--------------|:-------|
