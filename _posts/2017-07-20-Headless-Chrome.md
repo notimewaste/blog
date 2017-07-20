@@ -13,7 +13,7 @@ We love to continuously test our websites on real browsers like chrome,firefox a
 
 >> A Headless Browser is a web browser without a graphical user interface, controlled programmatically and generally used for testing and common automation purposes like taking screenshots,scraping websites etc.
 
-### Why Headless Tests
+### Why Headless Tests ?
 
 * Sometimes we do need to run very quick browser based sanity tests which can should be executed on any headless machine (like remote linux server) and get us quicker testing feedback.
 * Although headless browsers aren’t much faster than real browsers but since it doesn’t have to render the pixels to a screen and have lesser dependencies unlike the real browsers which needs a display or xvfb support so they are faster and easier to setup and execute anywhere.
@@ -27,12 +27,12 @@ We love to continuously test our websites on real browsers like chrome,firefox a
 
 ![Not Sure ]({{ site.url }}/images/headless1.png)
 
-### Why Headless Chrome
+### Why Headless Chrome ?
 
 * Recently, Chrome added support for a headless flag so it could be started without any GUI. Headless Chrome was shipped in Chrome 59.
-* Following this announcement, the creator of PhantomJS even announced that he would be stepping down as a maintainer.
+* Following this announcement, the creator of PhantomJS even announced that he would be stepping down as a maintainer in a <a href="https://groups.google.com/forum/m/#!topic/phantomjs/9aI5d-LDuNE">post</a>.
 * Running smaller tests under headless version of Chrome means that our features specs can be tested in the same environment that most of our users are browsing within lesser time and is also supposed to improve memory usage.
-* This test can be executed for quicker feedback before starting the larger test suites with selenium web-driver over real browsers as visible in below pipeline.we will also share our experiences on using Jenkins pipeline with UI tests in my upcoming posts. <br><br>
+* This test can be executed for quicker feedback before starting the larger test suites with selenium web-driver over real browsers as visible in below pipeline.I will also share my experiences on using Jenkins pipeline with UI tests in my upcoming posts. <br><br>
 
 ![Pipelines]({{ site.url }}/images/headless2.png)
 
@@ -88,9 +88,9 @@ end
 
 * That’s it ,you should be now able to run your existing selenium web-driver tests on headless chrome.
 
-### Working Example 
+### 5 mins Working Example 
 You can checkout a small working example for getting started with headless chrome tests within 5 mins from
-https://github.com/notimewaste/chrome_headless_test .
+<a href="https://github.com/notimewaste/chrome_headless_test">github</a>.
 
 ### Conclusion
-Although headless Chrome is similar to existing tools like PhantomJS. Both can be used for automated testing in a headless environment but we highly recommend using a real browser in headless mode to test and uncover realistic application issues.
+Although headless Chrome is similar to existing tools like PhantomJS and both can be used for automated testing in a headless environment but we highly recommend using a real browser in headless mode to test and uncover realistic application issues.
