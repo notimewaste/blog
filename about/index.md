@@ -12,16 +12,15 @@ Hey I am Irfan,
 A Software <a href="httpsp://en.wikipedia.org/wiki/Critic">Critic</a> ,who believes every software is a form of creative work and needs to be analyzed for quality before its users to make their life easy.          
 
 ### Mission
-Recently discovered that ultimate Purpose of my life might be to **Free people from concerns** be it with humour,art or technology which gives him immense happiness beyond anything.    
-So that's what I do in my work,free time and dreams.
+Recently discovered that ultimate Purpose of my life might be to **Free people from concerns** be it with humour, art or technology which gives him immense happiness beyond anything.    
+So that's what I do in my work, free time and dreams.
 
 ### Passion
 * Enabling developers to deliver quality in their software faster, reliable and on scale to make the world of software a transparent place.
-* Writing **humour** and stand-by comic.
-* Author at <a href="https://chandler.ai">Chandler</a>.
+* Developing <a href="https://critick.io">Critick</a>.
 * Open source <a href="https://github.com/notimewaste">fan</a> and <a href="https://irfanahmad.in/open/">contributor</a>.
 
 ### Profession  
 * Lead QA Engineer at <a href="https://upgrad.com">UpGrad</a>
-* Focused on test automation, mobile and continuous delivery currently.
+* Focused on test automation and continuous delivery currently.
 * Had played the role of a being a Developer, SysOps, Business Analyst to Quality Analyst and is always willing to explore for achieving the same goals above.
