@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PhantomJS is dead ,It's time to embrace headless Chrome"
-excerpt: "Get Set Go with Headless Chrome testing in 10 mins or less"
+excerpt: "Get Set Go with Headless Chrome testing in 5 mins or less"
 tags: [Headless Chrome,headless testing, phantomJS,QA,docker,irfan ahmad]
 
 comments: true
