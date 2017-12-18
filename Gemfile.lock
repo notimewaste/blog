@@ -106,7 +106,7 @@ GEM
     titlecase (0.1.1)
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
-    yajl-ruby (1.2.1)
+    yajl-ruby (1.2.3)
 
 PLATFORMS
   ruby
@@ -125,4 +125,4 @@ DEPENDENCIES
   pygments.rb
 
 BUNDLED WITH
-   1.14.6
+   1.15.4
