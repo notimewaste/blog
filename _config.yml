@@ -37,7 +37,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Software Critic"
   linkedin: irfanahmads
-  email: irfan@critick.ai
+  email: irfan@critick.io
   github: notimewaste
   disqus-shortname: irfanahmads
   twitter: notimewaste
@@ -46,7 +46,7 @@ owner:
     plus: #username
     analytics: UA-79191458-1
     verify:
-    ad-client:
+    ad-client: ca-pub-3196292578790862
     ad-slot:
   bing-verify:
   stackoverflow: 5257528/irfan-ahmad   #from a "http://stackoverflow.com/users/123456/username" link
