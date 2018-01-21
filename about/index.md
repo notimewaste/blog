@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-tags: [about,Irfan Ahmad,Software Critic,Irfan=]
+tags: [about,Irfan Ahmad,Software Critic,Irfan]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
@@ -22,5 +22,5 @@ So that's what I do in my work, free time and dreams.
 
 ### Profession  
 * Lead QA Engineer at <a href="https://upgrad.com">UpGrad</a>
-* Focused on test automation and continuous delivery currently.
+* Focused on test automation, continuous delivery and site reliability currently.
 * Had played the role of a being a Developer, SysOps, Business Analyst to Quality Analyst and is always willing to explore for achieving the same goals above.
