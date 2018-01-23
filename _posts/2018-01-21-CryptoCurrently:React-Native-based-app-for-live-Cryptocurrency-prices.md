@@ -48,10 +48,11 @@ Recently i have started learning react and react-native for web-apps or native m
 ### Final Notes
 
 * Download the android app here <a href="https://play.google.com/store/apps/details?id=com.cryptocurrently">
-CryptoCurrently</a>
-* iOS app coming live very soon on app store ,will post the link once published
+CryptoCurrently Android</a>
+* Download the android app here <a href="https://itunes.apple.com/app/id1338286385">
+CryptoCurrently iOS</a>
 * Web version will be available by next month
 * Thanks to Indrek Lasn <a href="https://medium.com/react-native-training/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iii-a454dda156b">blog</a> for inspiration.
 * Feel free to add any feedbacks or reviews on this post or app store.
 * My Company <a href="https://upgrad.com">UpGrad</a> has a full stack development course where we are also teaching react as part of mobile development with live projects , you may signup for the course from my referral <a href="https://upgrad.com/software-engineering/?ref=IRFA726">
-link</a> and get a discount of upto Rs 10000. 
+link</a> and get a discount of upto Rs 10000.

@@ -13,11 +13,13 @@ Being a hobbyist developer i keep writing softwares sometimes for fun and  somet
 >> Below are some of my live apps that you can try as they are available on web and popular app platforms like android play store, iOS app store ,expo , ubuntu and amazon markets.
 
 ### Mobile Apps            
-1)<a href="https://play.google.com/store/apps/details?id=com.cryptocurrently"> CryptoCurrently</a> [Top cryptocurrencies with their current prices in INR]
+1) <a href="https://irfanahmad.in/cryptocurrently-react-native-based-app-for-live-cryptocurrency-prices/">CryptoCurrently</a> - Top cryptocurrencies with their current prices in INR      
+* Android users can download <a href="https://play.google.com/store/apps/details?id=com.cryptocurrently"> CryptoCurrently Android App</a>  
+* iOS users can download  <a href="https://itunes.apple.com/app/id1338286385"> CryptoCurrently iOS App</a>
 * Since Cryptocurrency markets are volatile so you need to keep a check on the prices of different Cryptocurrencies but that's very difficult, time consuming and repetitive.
 * CryptoCurrently will keep you informed of the latest prices different cryptocurrencies in Indian currency on a single screen so that you can take decisions on time and earn more money :)
 
-2) <a href="https://play.google.com/store/apps/details?id=com.irfana.tinyclip&hl=en"> ClipOn</a> [Clipboard Manager and note making productivity tool]  
+2) <a href="https://play.google.com/store/apps/details?id=com.irfana.tinyclip&hl=en"> ClipOn</a> [Android Clipboard Manager and note making productivity app]  
 This is a highly productive app to clip contents from your device over any app and save,share and export anytime, anywhere.  
 
 * Stores all that you have copied or cut in the past, allowing you to quickly
