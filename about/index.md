@@ -5,7 +5,7 @@ tags: [about,Irfan Ahmad,Software Critic,Irfan]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-12.jpg
+  feature: ezgif-2-ea36aa7356.gif
 ---
 
 Hey I am Irfan,  

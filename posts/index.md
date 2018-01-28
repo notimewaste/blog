@@ -1,7 +1,5 @@
 ---
 layout: post-index
-title: All Posts
+title: Blogs
 excerpt: "A List of Posts"
-image:
-  feature: blog.png
 ---
