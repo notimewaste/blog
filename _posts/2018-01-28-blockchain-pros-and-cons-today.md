@@ -62,40 +62,40 @@ But since blockchain based systems can work on a shared distributed ledger ,it c
 
 Although blockchain is great but that does not mean is it ready to serve the masses ? lets understand the issues with blockchain.
 
-### 1.Lack of Centralized Control
+#### 1.Lack of Centralized Control
 
 Blockchain based systems are designed to replace third-party intermediaries
 putting back the responsibility of every transaction on all the people involved in it leading to a democratic system.So a company or business owner may end up losing all its decision making control to entire network instead of themselves.
 
-### 2.Security Flaws
+#### 2.Security Flaws
 
 Even though it looks unfeasible but the possibility of manipulating more than 50% of computers in a large network to change or influence the decision making process in blockchain based system still exists in theory and must be solved soon.
 
-### 3.No Failbacks
+#### 3.No Failbacks
 
 Humans are not perfect and keep making mistakes ,like mistake in transfering
 money to wrong person or merchant and in those cases third-party organizations like banks and credit card companies helps us by identifying and reversing transactions.
 
 But in BlockChain based systems transaction's can't be altered or revered and there are no third parties to assist in case of mistake which may result in losing valuable asset forever.
 
-### 4.Privacy
+#### 4.Privacy
 
 Decentralized blockchains lack privacy since the identity of people
 and transaction details is published to the entire network of computers.
 Although there are few decentralized blockchains that retains privacy still the popular ones like bitcoin are not operational in this way.
 
-### 5.Lack of Solid Proofs
+#### 5.Lack of Solid Proofs
 
 Blockchain based systems are unproven new technology that has mainly bee applied to only cryptocurrencies and lack any other real-world implementation to prove its theoretical effectiveness.
 
-### 6.Scalability Problems
+#### 6.Scalability Problems
 
 Due to the infrastructure and computation requirements of processing complex
 blockchain transaction including electricity and processing power also the block size limitation for every currency the scalability of blockchain based systems are questionable. For example an bitcoin network process only few transactions as against  tens of thousands of transactions by credit card networks today.
 Although there are many new blockchain networks who claim to be much faster
 still they are not as popular as bitcoin and there acceptance in market may take some more time.
 
-### 7.Regulation
+#### 7.Regulation
 Blockchain based assets are facing a long process of regulation and integration
 issues with existing systems.Governments, financial Institutions and Banks are resistant to change due to the scale and cost of replacing existing systems.
 
