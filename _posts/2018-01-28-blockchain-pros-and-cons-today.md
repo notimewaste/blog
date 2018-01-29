@@ -9,8 +9,7 @@ image:
 ---
 
 Recently you must be hearing a lot about blockchain ,although its not a
-very recent invention but keeps mentioned along with bitcoin and other
-cryptocurrencies news.
+very recent invention but keeps getting mentioned along with bitcoin and every other cryptocurrencies news.
 
 ## BlockChain
 
@@ -19,16 +18,16 @@ To put it simply, a blockchain is like a database, its a way of storing records 
 
 ## Good
 
-BlockChain is getting mentioned as one of the most futuristic technologies ,lets understand some of its benefits and judge ourself.
+Why is blockChain so hyped and considered to be one of the most futuristic technologies ,lets understand some of its benefits and judge ourself.
 
 #### 1.Decentralization
-It can run on a decentralized network of computers ,reducing the risk of hacking, server downtime and data loss and corruption since manipulating data on a blockchain would require manipulation over 50% of computers of network at the same time which is almost unfeasible.
-Also unlike now People and Companies do not have to give up control to a single institution when using a blockchain ,thus making collaboration between parties
+It can run on a complete decentralized network of computers ,reducing the risk of hacking, server downtime and data loss and corruption since manipulating data on a blockchain would require manipulation over 50% of computers of network at the same time which is almost unfeasible.
+Also unlike now people and companies do not have to give up control to a single institution when using a blockchain ,thus making collaboration between parties
 faster and easier to manage.
 
 
 #### 2.No Middle Parties
-Ability to removal of all intermediaries and allowing transactions to occur directly between people instead of involving any third parties.
+It has the ability to remove of all intermediaries and allow transactions to occur directly between people instead of involving any third parties.
 
 #### 3.Transparency
 
