@@ -8,7 +8,8 @@ image:
   feature: sample-image-11.jpg
 ---
 
-Being a hobbyist developer i keep writing softwares sometimes for fun and  sometimes with a utility purpose in mind.In last few years had built apps for different platforms like web, android, iOS, ubuntu, windows, backend API's and chatbots.
+Being a hobbyist developer i keep writing softwares sometimes for fun and  sometimes with a utility purpose in mind.In last few years had built apps for different platforms like web, android, iOS, ubuntu, windows, backend API's and chatbots.  
+I work on these projects in my free time and they are in no way affiliated with any of my past or current employers.
 
 >> Below are some of my live apps that you can try as they are available on web and popular app platforms like android play store, iOS app store ,expo , ubuntu and amazon markets.
 
