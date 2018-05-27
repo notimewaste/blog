@@ -26,7 +26,8 @@ gulp.task('jekyll', function() {
 gulp.task('optimize-images', function () {
 	return gulp.src(['_site/**/*.jpg', '_site/**/*.jpeg', '_site/**/*.gif', '_site/**/*.png'])
 		.pipe(imagemin({
-			progressive: false,
+			progressive: true,
+      optimizationLevel: 5,
 			svgoPlugins: [{removeViewBox: false}],
 			use: [pngquant(), jpegtran(), gifsicle()]
 		}))
