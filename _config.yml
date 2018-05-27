@@ -31,6 +31,16 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
+# CSS Optimization
+
+assets:
+  compress:
+    css: true
+  js_compressor:  uglifier
+  css_compressor: scss
+  features:
+    liquid: true
+
 # Site owner
 owner:
   name: Irfan Ahmad
@@ -38,9 +48,9 @@ owner:
   bio: "Software Critic"
   linkedin: softwarescritic
   email: irfan@critick.io
-  github: softwarescritic
+  github: notimewaste
   disqus-shortname: irfanahmads
-  twitter: softwarescritic
+  twitter: notimewaste
   facebook: irfan.ahmad.7
   google:
     plus: #username
