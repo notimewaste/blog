@@ -163,6 +163,38 @@ input[type="hidden"] {
 	margin-left : 10px;
 }
 
+
+.subscribe-newsletter {
+  color: rgba(68, 68, 68, 0.7);
+  font-size: 13px;
+  line-height: 20px;
+}
+
+.subscribe_input {
+    width: 150px;
+}
+
+.subscribe-form {
+  button {
+    display: inline-block;
+    width: 150px;
+    height: 30px;
+    background-color: #272727;
+    color: white;
+    font-style: normal;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    border-radius: 0;
+  }
+
+	input[type="text"] {
+	font-size: 14px;
+	padding: 5px;
+}
+}
+
+
 /*
    Disabled state
    ========================================================================== */

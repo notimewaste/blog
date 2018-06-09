@@ -35,7 +35,7 @@
   <div id="index">
     <h1>{{ page.title }}</h1>
     {% capture written_year %}'None'{% endcapture %}
-    {% for post in site.posts %}  
+    {% for post in site.posts %}
       {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% if year != written_year %}
         <h3>{{ year }}</h3>
@@ -56,6 +56,7 @@
 <div class="footer-wrap">
   <footer>
     {% include _footer.html %}
+    {% include newsletter.html %}
   </footer>
 </div><!-- /.footer-wrap -->
 
