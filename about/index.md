@@ -8,19 +8,24 @@ image:
   feature: ezgif-2-ea36aa7356.gif
 ---
 
-Hey I am Irfan,  
-A Software <a href="httpsp://en.wikipedia.org/wiki/Critic">Critic</a> ,who believes every software is a form of creative work and needs to be analyzed for quality before its users to make their life easy.          
+Hey I am Irfan, A full stack developer focused on software testing, being a quality enthusiast i call myself a software critic.
 
 ### Mission
-Recently discovered that ultimate Purpose of my life might be to **Free people from concerns** be it with humour, art or technology which gives him immense happiness beyond anything.    
-So that's what I do in my work, free time and dreams.
+* To **Free people from concerns** be it with humour or technology which gives me immense happiness beyond anything.    
 
 ### Passion
-* Enabling developers to deliver quality in their software faster, reliable and on scale to make the world of software a transparent place.
-* Developing <a href="https://critick.io">Critick</a>.
+* My passion revolves around writing and speaking on humour and to make a living from <a href="https://en.wikipedia.org/wiki/Computational_humor">them</a>.
+* Improving the state of software quality with intelligent testing automation and transparency.
+* Raising <a href="https://chandler.ai">Chandler</a> : chatbot for maintaining tests and living documentation easily.
 * Open source <a href="https://github.com/notimewaste">fan</a> and <a href="https://irfanahmad.in/open/">contributor</a>.
+
+### Vocation
+* In past have written both <a href="https://irfanahmad.in/apps/">apps</a> and tests for Web, Android, iOS, Windows and Chatbot platforms in my free time.
+* At present all my free time is spent on <a href="https://chandler.ai">Chandler</a>  and <a href="https://irfanahmad.in/open/">open-source</a>.
+* Occasionally i do love writing and speaking on technology or humour or sometimes both.
+* In Past have spoken at many tech. meet-ups and international conferences like SeleniumConf, ATA and AgileIndia.
 
 ### Profession  
 * Lead QA Engineer at <a href="https://upgrad.com">UpGrad</a>
-* Focused on test automation, continuous delivery and site reliability currently.
+* Focused on test automation, continuous delivery and using intelligent chatbots in testing currently.
 * Had played the role of a being a Developer, SysOps, Business Analyst to Quality Analyst and is always willing to explore for achieving the same goals above.

@@ -29,7 +29,7 @@ gulp.task('optimize-images', function () {
 			progressive: true,
       optimizationLevel: 5,
 			svgoPlugins: [{removeViewBox: false}],
-			use: [pngquant(), jpegtran(), gifsicle()]
+      use: [pngquant(), jpegtran(), gifsicle()]
 		}))
 		.pipe(gulp.dest('_site/'));
 });
