@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What's your Ikigai ? reason to get up in the morning"
+title: "What's your reason to get up in the morning ?"
 excerpt: "On Finding your ikigai and why its important "
 tags: [Motivation,Life Insipration ,ikigai ,Irfan Ahmad Motivation]
 comments: true
@@ -8,7 +8,7 @@ image:
   feature: wake_up_why.png
 ---
 
-My last Saturday was supposed to be relaxing day and why not since after a very long time post the busy month of ramadan and couple of busy weekends i got a day with nothing to do.
+My last Saturday was supposed to be a relaxing day and why not since after a very long time post the busy month of ramadan and couple of busy weekends i got a day with nothing to do.
 
 ## Story
 
@@ -20,7 +20,7 @@ answer this question since there was
 * no deadline to achieve
 * no event to attend or prepare
 * no bills to pay
-* no misscalls or whatsapp notification (phone was off :p)
+* no miscalls or app notifications (phone was off :p)
 * no hunger to eat
 * no routine to follow      
 
@@ -30,14 +30,13 @@ In short there was no reason to get up at all and i ended up losing an entire mo
 
 
 ## Research
-This whole event made me curious on why do people get up in morning ? specially the most fortune ones who have all the money ,power and glory and no debt , what makes them jump
-out of bed each morning and do all the great work they do.The answer was that they knew
+This whole event made me curious on why do people get up in morning ? specially the most fortune ones who have all the money ,power and glory and no debt , what makes them jump out of bed each morning and do all the great work they do.The answer was that they knew
 their "ikigai".
 
 
 ## What is Ikigai ?
 
-An ikigai (pronounced Ick-ee-guy) is a Japanese word which essentially means ‘a reason to get up in the morning’. According to the Japanese, everyone has an ikigai. A reason to enjoy life , In simple words it defines purpose of your life.    
+An ikigai (pronounced Ick-ee-guy) is a Japanese word which essentially means ‘a reason to get up in the morning’. According to the Japanese, everyone has an ikigai. A reason to enjoy life . In simple words it defines purpose of your life.    
 Discovering your own ikigai is said to bring fulfillment, happiness and make you live longer.
 
 > “Your ikigai is at the intersection of what you are good at and what you love doing,”    - Hector Garci
@@ -49,14 +48,13 @@ Your ikigai is seen as the convergence of four primary elements:
 * What you love and can do without getting paid for (passion)
 * What the world needs and you can provide for (mission)
 * What you are good at and can get paid for (vocation)
-* What you can actually get paid for (profession)
+* What you can actually get paid for (profession)  
 
-![ikigui]({{ site.url }}/images/ikigui.jpeg)   
+![ikigui]({{ site.url }}/images/ikigui.jpeg)     
+The intersection of the above four components is your life purpose and once you
+get to know this you will realize life is much beyond anything materialistic.
 
 ## Finding your ikigai
-
-The intersection of the four components is your life purpose and once you
-get to know this you will realize life is much beyond anything materialistic.
 
 In their book <a href="https://www.amazon.com/gp/product/0143130722/">Ikigai</a> Japanese Secret to a Long and Happy Life, Hector Garcia and Francesc Miralles break down the ten rules that can help anyone find their own ikigai.
 
@@ -71,7 +69,7 @@ In their book <a href="https://www.amazon.com/gp/product/0143130722/">Ikigai</a>
 * Live in the moment
 * Follow your ikigai
 
-I have been triying to drive my Ikigai from my <a href="https://irfanahmad.in/about/">about</a> page but found that this is a continuous process and needs to evolve over time.
+I started to find my own Ikigai from my <a href="https://irfanahmad.in/about/">about</a> page and looks clearly visible to me now however it is a continuous process and needs to evolve over time.
 
 ## Conclusion
 Ikigai is all about finding joy, fulfillment, and balance in the daily routine of life.
