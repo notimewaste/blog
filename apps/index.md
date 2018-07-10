@@ -46,7 +46,7 @@ This is a highly productive app to clip contents from your device over any app a
 
 ###  Websites  
 * <a href="https://irfanahmad.in">Software Critic</a> - Personal blog
-* <a href="https://critick.io">Critick</a> - WebApp in Progress
+* <a href="https://chandler.ai">Chandler</a> - Research in Progress
 
 ### Chatbot
 * No more alive (: but should be back soon , subscribe this blog to be informed
