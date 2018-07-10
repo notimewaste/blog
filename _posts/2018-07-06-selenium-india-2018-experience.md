@@ -66,9 +66,9 @@ The day ended with dinner reception where people got chance again to network and
 ### Day 2
 
 ####  Missed Kenote and Group Photo
-The day started with my super optimistic plan to reach the venue (as i shifted to another hotel) along with over-indulgence in networking
-which lead me to miss the keynote session as well as speaker photo-session :( ,I had already heard so much about Maaret and her talk from others
-that i can't wait to see her video now.  
+The day started with my super optimistic plan to reach the venue (as i shifted to another hotel) totally underestimating bangalore's traffic along with over-indulgence in networking
+which lead me to miss the keynote session from Maaret on "Exploratory Testing" as well as speaker photo-session :( ,I had already heard so much about Maaret and her talk from others
+that i can't wait to see her keynote's video now.  
 
 <br />
 ![Keynote]({{ site.url }}/images/2018_speakers.JPG)
