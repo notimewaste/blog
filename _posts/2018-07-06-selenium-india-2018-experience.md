@@ -130,7 +130,7 @@ With so many great keynotes , interesting talks and discussions i was sure to le
 * Mobile testing is solved problem with most companies now also moving to platforms like TV,Wearables, Voice , Chat , VR and IoT and interesting to see that Appium is helpful to test on all these platforms which indicates the **star drivers** future is coming soon.  
 
 <br />
-Also this time i was glad to have <a href="https://twitter.com/bhuvan2911">Bhuvan</a> as someone from my own company and team attending the conference.
+Also this time i was glad to have <a href="https://www.instagram.com/bhuvan.kapoor/">Bhuvan</a> as someone from my own company and team attending the conference.
 
 <br />
 ![selfie]({{ site.url }}/images/2018_selfie.jpg)
