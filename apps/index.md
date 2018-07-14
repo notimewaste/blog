@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-11.jpg
+  feature: my_desk.JPG
 ---
 
 Being a hobbyist developer i keep writing softwares sometimes for fun and  sometimes with a utility purpose in mind.In last few years had built apps for different platforms like web, android, iOS, ubuntu, windows, backend API's and chatbots.  
@@ -28,7 +28,7 @@ This is a highly productive app to clip contents from your device over any app a
 * Can store unlimited number of text clips and can be configured by user
 * Sleek interface with material design
 * Simple notification ,can be configured by users
-* Share the clips to any other app like Facebook,watsapp
+* Share the clips to any other app like Facebook, WhatsApp
 * Can take backup for existing clips and restore them
 * Clips can be recovered even after reboot or crash
 * Easy to use  Material Design User Interface with simple click and swipe   
@@ -49,4 +49,4 @@ This is a highly productive app to clip contents from your device over any app a
 * <a href="https://chandler.ai">Chandler</a> - Research in Progress
 
 ### Chatbot
-* No more alive (: but should be back soon , subscribe this blog to be informed
+* No more are alive (: but should be back soon , subscribe this blog to be informed
