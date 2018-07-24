@@ -47,7 +47,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "Software Critic"
   linkedin: softwarescritic
-  email: irfan@critick.io
+  email: irfan@chandler.ai
   github: notimewaste
   disqus-shortname: irfanahmads
   twitter: notimewaste
@@ -68,11 +68,12 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: https://www.youtube.com/channel/UC79RKStF1BLCDFAsh-T3OgA
+  youtube: yes
   soundcloud: #username
   weibo: #username
   flickr: #username
   codepen: #username
+  calender: yes
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
