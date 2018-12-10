@@ -1,6 +1,6 @@
 ---
 layout: home
-excerpt: "Software Critic,Testing,Reviews and CI"
-tags: [Testing,Automation Testing,Software Critic, blog,Online App Testing,Irfan Ahmad,continuous Integration,Open Source]
+excerpt: "Software Critic - Irfan Ahmad Personal Blog"
+tags: [Irfan Ahmad, Software Critic,Software Reviews ,App Reviews]
 
 ---
