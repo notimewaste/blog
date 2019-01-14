@@ -16,7 +16,7 @@ Hey I am Irfan, A full stack developer focused on software testing, being a qual
 ### Passion
 * My passion revolves around writing and speaking on humour and to make a living from <a href="https://en.wikipedia.org/wiki/Computational_humor">them</a>.
 * Improving the state of software quality with intelligent testing automation and transparency.
-* Raising <a href="https://chandler.ai">Chandler</a> : chatbot for maintaining tests and living documentation easily.
+* Building <a href="https://checkops.io">CheckOps</a> : Interactive checklists for improving web operations.
 * Open source <a href="https://github.com/notimewaste">fan</a> and <a href="https://irfanahmad.in/open/">contributor</a>.
 
 ### Vocation
@@ -26,6 +26,6 @@ Hey I am Irfan, A full stack developer focused on software testing, being a qual
 * In Past have spoken at many tech. meet-ups and international conferences like SeleniumConf, ATA and AgileIndia.
 
 ### Profession  
-* Lead QA Engineer at <a href="https://upgrad.com">UpGrad</a>
+* Leading SDET team at <a href="https://upgrad.com">UpGrad</a>
 * Focused on test automation, continuous delivery and using intelligent chatbots in testing currently.
 * Had played the role of a being a Developer, SysOps, Business Analyst to Quality Analyst and is always willing to explore for achieving the same goals above.
