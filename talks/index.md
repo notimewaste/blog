@@ -13,7 +13,7 @@ from others feedback everytime.
 
 ### SeleniumConf Uk at London 2016  
 
-* Session <a href="http://2016.seleniumconf.co.uk/sessions/#irfan-ahmad">brief</a>  
+* Session <a href="https://2016.seleniumconf.co.uk/sessions/#irfan-ahmad">brief</a>  
 * Video  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qYJvwggA6cA" frameborder="0" allowfullscreen></iframe>
 * Presentation  
