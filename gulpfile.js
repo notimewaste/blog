@@ -72,8 +72,8 @@ gulp.task('rsync-files', function() {
 
 
 gulp.task('seo', ['build'], function(cb) {
-    request('http://www.google.com/webmasters/tools/ping?sitemap=https://irfanahmad.in/sitemap.xml');
-    request('http://www.bing.com/webmaster/ping.aspx?siteMap=https://irfanahmad.in/sitemap.xml');
+    request('https://www.google.com/webmasters/tools/ping?sitemap=https://irfanahmad.in/sitemap.xml');
+    request('https://www.bing.com/webmaster/ping.aspx?siteMap=https://irfanahmad.in/sitemap.xml');
     cb();
 });
 
