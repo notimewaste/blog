@@ -46,6 +46,7 @@ This is a highly productive app to clip contents from your device over any app a
 
 ###  Websites  
 * <a href="https://irfanahmad.in">Software Critic</a> - Personal blog
+* <a href="https://excusemepls.com">Excuse Me Pls</a> - Random excuses generator
 * <a href="https://checkops.io">CheckOps</a> - Interactive checklists to improve websites quality.
 
 ### Chatbot
