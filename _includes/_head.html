@@ -22,7 +22,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ site.url }}/assets/css/main.css">
+<link rel="preload" href="{{ site.url }}/assets/css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="path/to/mystylesheet.css"></noscript>
+<script>
+/*! loadCSS rel=preload polyfill. [c]2017 Filament Group, Inc. MIT License */
+(function(){ ... }());
+</script>
 
 <meta http-equiv="cleartype" content="on">
 
