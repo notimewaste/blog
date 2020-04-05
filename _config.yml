@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Software Critic
+title:            Irfan Ahmad
 locale:           en_US
 url:              https://irfanahmad.in
 
@@ -43,14 +43,14 @@ assets:
 
 # Site owner
 owner:
-  name: Irfan Ahmad
+  name: Irfan 
   avatar: bio-photo.jpg
-  bio: "Software Critic"
+  bio: "Softwares Critic"
   linkedin: softwarescritic
   email: checkopser@gmail.com
-  github: notimewaste
+  github: softwarescritic
   disqus-shortname: irfanahmads
-  twitter: notimewaste
+  twitter: softwarescritic
   facebook: irfan.ahmad.7
   google:
     plus: #username
@@ -61,7 +61,7 @@ owner:
   bing-verify:
   stackoverflow: 5257528/irfan-ahmad   #from a "https://stackoverflow.com/users/123456/username" link
   xing: #username
-  instagram: software_critic
+  instagram: softwarescritic
   lastfm: #username
   tumblr: #username
   pinterest: #username
